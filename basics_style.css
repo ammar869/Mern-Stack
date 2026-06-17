@@ -1,0 +1,23 @@
+body {
+  background-color: lightgray;
+  font-family: Arial;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: black;
+}
+
+.box {
+  background-color: white;
+  border: 2px solid black;
+  width: 300px;
+}
+
+button {
+  background-color: green;
+  color: white;
+}
